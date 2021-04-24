@@ -24,7 +24,7 @@ command:
 
 ### Input files
 A bam file and a reference file
-Reference file of simulation data is chr21 of hg
+Reference file of simulation data is chr21 of hg37
 
 
 ### runnig command
