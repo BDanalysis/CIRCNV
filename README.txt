@@ -10,8 +10,8 @@ via the polar coordinate transformation, and it test CNVs two times.
 * pandas
 * pysam
 * rpy2
-
-command: pip install numpy numba sklearn pandas pysam rpy2
+* matplotlib
+command: pip install numpy numba sklearn pandas pysam rpy2 matplotlib
 
 
 ### R packages
