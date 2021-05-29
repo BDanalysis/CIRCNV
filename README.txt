@@ -32,6 +32,7 @@ python CIRCNV.py [bamfile] [reference] [binsize] [output] [segCount] [k]
 -bamfile: a bam file
 -reference: the reference folder path
 -binsize: the window size('1000' by default)
+-output: the the output file path
 -segCount: the number of partitions to CBS('50' by default)
 -k: the parameters of this algorithm('10' by default)
 
