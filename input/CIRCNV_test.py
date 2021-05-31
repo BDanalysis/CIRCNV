@@ -402,8 +402,8 @@ def Write_CNV_newFile(chr, CNVstart, CNVend, CNVtype, CN, filename):
 
 # get params
 starttime = datetime.datetime.now()
-bam = sys.argv[1]
-#bam = "test.bam"
+#bam = sys.argv[1]
+bam = "test.bam"
 refpath = sys.argv[2]
 binSize = sys.argv[3]
 outpath = sys.argv[4]
